@@ -5,3 +5,6 @@ Master Song 3
 Old Song 1
 Old Song 2 
 Old Song 3
+New Old 1
+New Old 2
+New Old 3
