@@ -14,12 +14,9 @@ New Old old 1
 New Old old 2
 Master Abba 1
 master Abba 2
-<<<<<<< HEAD
 Master Abba 1a
 Master Abba 2a
 Master Abba 3a
-=======
 Abba 1
 abba 2
 abba 3
->>>>>>> abba
