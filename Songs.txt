@@ -8,10 +8,7 @@ Old Song 3
 New Old 1
 New Old 2
 New Old 3
-<<<<<<< HEAD
 Master Song 4
 Master Song 5
-=======
 New Old old 1
 New Old old 2
->>>>>>> oldies
